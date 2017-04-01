@@ -1,0 +1,317 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\I18N.Other.dll (this message is harmless)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\CVARC.Core.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\CVARC.Core.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\DotNetZip.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\DotNetZip.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Infrastructure.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Infrastructure.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityCommons.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\UnityCommons.dll into Unity Child Domain
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.559149 ms
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.Data.dll (this message is harmless)
+Loaded settings, version=3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**************  UNITY STARTED 4/1/2017 4:29:17 PM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\System.Configuration.dll (this message is harmless)
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-11EF7B88 (this message is harmless)
+Fallback handler could not load library A:/Programs/Microsoft Visual Studio 14.0/!Projects/BasicProg/Second Semester/7. Heroes/cvarc/Binaries/ucvarc_Data/Mono/data-11EF7B88.dll
+Dispatcher.FillLoader: pudge final is loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.FillLoader: pudge debug is loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-11F7CCB0 (this message is harmless)
+Fallback handler could not load library A:/Programs/Microsoft Visual Studio 14.0/!Projects/BasicProg/Second Semester/7. Heroes/cvarc/Binaries/ucvarc_Data/Mono/data-11F7CCB0.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.FillLoader: homm Level2 is loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.FillLoader: homm Level3 is loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Requested game homm.Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.496856 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.746917 ms (FindLiveObjects: 0.023326 ms CreateObjectMapping: 0.020060 ms MarkObjects: 0.696065 ms  DeleteObjects: 0.004665 ms)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+Platform assembly: A:\Programs\Microsoft Visual Studio 14.0\!Projects\BasicProg\Second Semester\7. Heroes\cvarc\Binaries\ucvarc_Data\Managed\I18N.West.dll (this message is harmless)
+UnloadTime: 101.141327 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 1.864728 ms (FindLiveObjects: 0.123630 ms CreateObjectMapping: 0.173549 ms MarkObjects: 1.422922 ms  DeleteObjects: 0.144158 ms)
+
+PlayServer.HasGame: Requested game homm.Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.452535 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 2.036878 ms (FindLiveObjects: 0.236065 ms CreateObjectMapping: 0.288783 ms MarkObjects: 1.497567 ms  DeleteObjects: 0.013062 ms)
+
+PlayServer.HasGame: Requested game homm.Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 18.455536 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 1.924910 ms (FindLiveObjects: 0.135760 ms CreateObjectMapping: 0.160486 ms MarkObjects: 1.469575 ms  DeleteObjects: 0.158620 ms)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.454868 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 4.561282 ms (FindLiveObjects: 0.190811 ms CreateObjectMapping: 0.262657 ms MarkObjects: 4.090085 ms  DeleteObjects: 0.016795 ms)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 19.531361 ms
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 2.111990 ms (FindLiveObjects: 0.153022 ms CreateObjectMapping: 0.179614 ms MarkObjects: 1.624464 ms  DeleteObjects: 0.153955 ms)
+
+PlayServer.HasGame: Requested game homm.Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.637282 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 2.767933 ms (FindLiveObjects: 0.174949 ms CreateObjectMapping: 0.254726 ms MarkObjects: 2.320996 ms  DeleteObjects: 0.015862 ms)
+
+PlayServer.HasGame: Requested game homm.Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 32.777134 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 4.059294 ms (FindLiveObjects: 0.226267 ms CreateObjectMapping: 0.383955 ms MarkObjects: 3.190611 ms  DeleteObjects: 0.257059 ms)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.817830 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 2.685357 ms (FindLiveObjects: 0.145091 ms CreateObjectMapping: 0.221136 ms MarkObjects: 2.298602 ms  DeleteObjects: 0.019127 ms)
+
+PlayServer.HasGame: Requested game homm.Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Game found in loader
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted client Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayServer.HasGame: Accepted 1 connections
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 25.125544 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 2.005620 ms (FindLiveObjects: 0.129229 ms CreateObjectMapping: 0.158620 ms MarkObjects: 1.552618 ms  DeleteObjects: 0.164685 ms)
+
+Dispatcher.IntroductionTick: Starting remote game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.485460 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 3.665074 ms (FindLiveObjects: 0.209939 ms CreateObjectMapping: 0.482394 ms MarkObjects: 2.950347 ms  DeleteObjects: 0.021460 ms)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 20.558662 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 1.979494 ms (FindLiveObjects: 0.177282 ms CreateObjectMapping: 0.170284 ms MarkObjects: 1.487303 ms  DeleteObjects: 0.144158 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2854 -> priority: 1 
+Dispatcher.OnDispose: GLOBAL EXIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

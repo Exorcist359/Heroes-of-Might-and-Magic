@@ -1,0 +1,299 @@
+**************  UNITY STARTED 3/11/2017 5:07:03 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/28/2017 2:44:27 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/28/2017 3:06:38 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/28/2017 3:07:43 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/28/2017 3:08:33 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 3/28/2017 7:00:52 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 12:22:34 AM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 1:23:42 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 1:40:33 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 1:41:38 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 1:53:17 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 1:56:04 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 1:58:42 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 2:45:10 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 2:48:37 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 2:51:43 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 3:56:43 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 4:01:46 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 4:20:52 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
+**************  UNITY STARTED 4/1/2017 4:29:17 PM
+DlcLoader.LoadAssemblies: Loading assembly pudge.dll
+Dispatcher.FillLoader: pudge final is loaded
+Dispatcher.FillLoader: pudge debug is loaded
+DlcLoader.LoadAssemblies: Loaded assembly pudge.dll
+DlcLoader.LoadAssemblies: Loading assembly homm.dll
+Dispatcher.FillLoader: homm Level1 is loaded
+Dispatcher.FillLoader: homm Level2 is loaded
+Dispatcher.FillLoader: homm Level3 is loaded
+DlcLoader.LoadAssemblies: Loaded assembly homm.dll
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+PlayServer.HasGame: Requested game homm.Level1
+PlayServer.HasGame: Game found in loader
+PlayServer.HasGame: Accepted client Left
+PlayServer.HasGame: Accepted 1 connections
+Dispatcher.IntroductionTick: Starting remote game
+Dispatcher.OnDispose: GLOBAL EXIT
